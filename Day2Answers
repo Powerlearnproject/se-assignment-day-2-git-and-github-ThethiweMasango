@@ -9,3 +9,27 @@ The Fundamental Concepts of Version Control
 -Enabling easy reveersion to previous versions 
 -Facilitating peer review and quality control
 Provididng recovery options.
+
+A; SETTING UP A NEW RESPOSITORY
+- Go to Github and sign in in your account 
+-Click the "+" button in the top-right corner and select new respository
+2.Choose a respository name:
+-enter a unique and descriptive name for your respository 
+3. Select a respsitory visisbility:
+-choose between pulic or private repo
+-Public Repo's are available to everyone while private repos are only avaialable to private collaboartors
+4.Add a repository description
+- Provide a breif summary of your respository's purpose and content
+5.Choose a repository template
+-select a template to initialize your repository with basic structure and files
+6. Set up repository settings
+-Configure settingslike issue tracking,project management, and collaboration tools
+7. Initialize the repository
+-Create the repository and initialize it with a README file 
+
+Important decisions to make during this process
+1.Repository name and visibility
+2.License
+3.Repository structure
+4Collaboaration settings
+
