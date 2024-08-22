@@ -1,0 +1,11 @@
+A; Version Control refers to the ability of a system to interpret and understand visusal data from th environmnet, such as images or videos 
+
+The Fundamental Concepts of Version Control 
+-Image processing: Enchancing and transforming vissiual data
+-Object detection: Identifying specific objects wuthin the visual data
+-Object Recognisation: Classitying deteected objects into categories
+-Tracking :Monitoring the environment of objects over time
+-Allowing safe testsing and refinmenet of code
+-Enabling easy reveersion to previous versions 
+-Facilitating peer review and quality control
+Provididng recovery options.
